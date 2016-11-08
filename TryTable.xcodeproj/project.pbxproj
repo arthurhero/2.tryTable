@@ -15,6 +15,12 @@
 		BF16F7F71DD158CC00DD5620 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF16F7F51DD158CC00DD5620 /* LaunchScreen.storyboard */; };
 		BF16F8021DD158CC00DD5620 /* TryTableTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BF16F8011DD158CC00DD5620 /* TryTableTests.m */; };
 		BF16F80D1DD158CD00DD5620 /* TryTableUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BF16F80C1DD158CD00DD5620 /* TryTableUITests.m */; };
+		BF16F81B1DD164F500DD5620 /* sokudo.png in Resources */ = {isa = PBXBuildFile; fileRef = BF16F81A1DD164F500DD5620 /* sokudo.png */; };
+		BF16F8211DD1693B00DD5620 /* choro.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BF16F81C1DD1693B00DD5620 /* choro.jpeg */; };
+		BF16F8221DD1693B00DD5620 /* nenjyu.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BF16F81D1DD1693B00DD5620 /* nenjyu.jpeg */; };
+		BF16F8231DD1693B00DD5620 /* suiriku.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BF16F81E1DD1693B00DD5620 /* suiriku.jpeg */; };
+		BF16F8241DD1693B00DD5620 /* todo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BF16F81F1DD1693B00DD5620 /* todo.jpeg */; };
+		BF16F8251DD1693B00DD5620 /* wakaba.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BF16F8201DD1693B00DD5620 /* wakaba.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +57,12 @@
 		BF16F8081DD158CD00DD5620 /* TryTableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TryTableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF16F80C1DD158CD00DD5620 /* TryTableUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TryTableUITests.m; sourceTree = "<group>"; };
 		BF16F80E1DD158CD00DD5620 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF16F81A1DD164F500DD5620 /* sokudo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sokudo.png; sourceTree = "<group>"; };
+		BF16F81C1DD1693B00DD5620 /* choro.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = choro.jpeg; sourceTree = "<group>"; };
+		BF16F81D1DD1693B00DD5620 /* nenjyu.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nenjyu.jpeg; sourceTree = "<group>"; };
+		BF16F81E1DD1693B00DD5620 /* suiriku.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = suiriku.jpeg; sourceTree = "<group>"; };
+		BF16F81F1DD1693B00DD5620 /* todo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = todo.jpeg; sourceTree = "<group>"; };
+		BF16F8201DD1693B00DD5620 /* wakaba.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wakaba.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +113,12 @@
 		BF16F7E61DD158CC00DD5620 /* TryTable */ = {
 			isa = PBXGroup;
 			children = (
+				BF16F81C1DD1693B00DD5620 /* choro.jpeg */,
+				BF16F81D1DD1693B00DD5620 /* nenjyu.jpeg */,
+				BF16F81E1DD1693B00DD5620 /* suiriku.jpeg */,
+				BF16F81F1DD1693B00DD5620 /* todo.jpeg */,
+				BF16F8201DD1693B00DD5620 /* wakaba.jpeg */,
+				BF16F81A1DD164F500DD5620 /* sokudo.png */,
 				BF16F7EA1DD158CC00DD5620 /* AppDelegate.h */,
 				BF16F7EB1DD158CC00DD5620 /* AppDelegate.m */,
 				BF16F7ED1DD158CC00DD5620 /* ViewController.h */,
@@ -251,7 +269,13 @@
 			files = (
 				BF16F7F71DD158CC00DD5620 /* LaunchScreen.storyboard in Resources */,
 				BF16F7F41DD158CC00DD5620 /* Assets.xcassets in Resources */,
+				BF16F81B1DD164F500DD5620 /* sokudo.png in Resources */,
+				BF16F8251DD1693B00DD5620 /* wakaba.jpeg in Resources */,
+				BF16F8241DD1693B00DD5620 /* todo.jpeg in Resources */,
 				BF16F7F21DD158CC00DD5620 /* Main.storyboard in Resources */,
+				BF16F8231DD1693B00DD5620 /* suiriku.jpeg in Resources */,
+				BF16F8221DD1693B00DD5620 /* nenjyu.jpeg in Resources */,
+				BF16F8211DD1693B00DD5620 /* choro.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
